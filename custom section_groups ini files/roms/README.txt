@@ -1,9 +1,9 @@
 ######################################## [ INSTALLATION ] ########################################
 
-Put the Unified folder in: /media/data/local/home/.simplemenu/themes/320x240/
+Just move these folders into the roms folder on your external SD card.
 
 
 
 ########################################### [ NOTICE ] ###########################################
 
-This theme was not designed to be used with game art. For the best experience possible, use Simplemenu 9.5 or greater.
+No roms or bios files are included in these files, and must be supplied by the user.
