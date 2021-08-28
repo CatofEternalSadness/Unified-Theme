@@ -2,13 +2,13 @@
 
 These ini files are preconfigured to work on the Adam image for the RG350/280 devices.
 
-Using Simplemenu 9.5 or greater:
+Using Simplemenu 10 or greater:
 
-	Back up your original ini files, edit the files as needed, then simply copy these files into the: /media/data/local/.simplemenu/section_groups folder replacing any files that already exist.
+	Back up your original ini files, edit the files as needed, then simply copy these files into the: /media/data/local/.simplemenu/section_groups		folder replacing any files that already exist.
 
 Using Simplemenu 9.4 or lower: (just update if possible)
 
-	Move these files into the: Unified/resources/GENERAL/section_groups folder.
+	Move these files into the: Unified/resources/GENERAL/section_groups	folder.
 
 ########################################### [ NOTICE ] ###########################################
 
